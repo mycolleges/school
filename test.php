@@ -1,1 +1,6 @@
-This is testing page this is testing
+<?php
+
+
+echo phpinfo();
+
+?>
